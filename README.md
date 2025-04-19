@@ -8,12 +8,6 @@ This repository contains a Women Security Application designed to enhance safety
 
 📍 Real-time Location Tracking – Shares live location with trusted contacts.
 
-📞 Quick Dial for Emergency Numbers – One-tap access to police, family, or emergency helplines.
-
-🛑 Shake Detection – Sends an alert when the device is shaken.
-
-🎤 Voice Command Activation – Activate emergency alerts using voice commands.
-
 🔐 Secure & Private – Ensures user data privacy and security.
 
 ## 🛠 Tech Stack
