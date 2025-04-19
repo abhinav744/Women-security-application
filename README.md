@@ -50,7 +50,7 @@ cd Women-security-application
 
 ### 2️⃣ Install Dependencies
 
-For React Native:
+For React :
 
 
 
