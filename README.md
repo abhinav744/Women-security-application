@@ -18,11 +18,11 @@ This repository contains a Women Security Application designed to enhance safety
 
 ## 🛠 Tech Stack
 
-Frontend: React Native / Flutter (if applicable)
+Frontend: React Js
 
-Backend: Node.js / Firebase / Express.js
+Backend: Node.js
 
-Database: MongoDB / Firebase Firestore
+Database: MongoDB
 
 APIs: Google Maps API for live tracking
 
@@ -34,11 +34,11 @@ Authentication: Firebase Auth / OTP verification
 
 /Women-security-application
 
-│── /frontend        # Mobile app UI (React Native/Flutter)
+│── /frontend        # Web app UI (React Js)
 
-│── /backend         # Server & API logic (Node.js/Express)
+│── /backend         # Server & API logic (Node.js)
 
-│── /database        # Firestore/MongoDB database setup
+│── /database        # MongoDB database setup
 
 │── /assets          # Images, icons, and UI assets
 
@@ -65,9 +65,7 @@ cd frontend
 
 npm install
 
-npx react-native run-android  # For Android
-
-npx react-native run-ios      # For iOS (MacOS only)
+npx react run  
 
 For Backend (Node.js & Express):
 
@@ -83,7 +81,7 @@ node server.js
 
 ### 3️⃣ Run the Application
 
-Launch the mobile app using an emulator or a real device.
+Launch the app using an emulator or a real device.
 
 Start the backend server to enable API features.
 
